@@ -25,13 +25,6 @@ const Template = (args) => (
     <Button {...args[0]} />
     <Button {...args[1]} />
     <Button {...args[2]} />
-    <Button {...args[0]} />
-    <Button {...args[1]} />
-    <Button {...args[2]} />
-    <Button {...args[0]} />
-    <Button {...args[1]} />
-    <Button {...args[2]} />
-
   </>
 )
 
