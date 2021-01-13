@@ -1,4 +1,4 @@
-# Lxper front-end storybook 
+# storybook setting
 
 ## How to run 
 
